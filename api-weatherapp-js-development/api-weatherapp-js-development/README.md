@@ -58,9 +58,9 @@ Open `index.html` file in your browser.
 
 ### Authors
 
-👤 **Tennyson Zvaita**
-- Github: [@tzvaita](https://github.com/tzvaita)
-- Twitter: [@tennyzvaita](https://twitter.com/tennyzvaita)
+👤 **Tadiwa Pindura**
+- Github: [)
+- linkedIn: [https://www.linkedin.com/in/tadiwanashepindura-webdev)
 
 ## 🤝 Contributing
 
