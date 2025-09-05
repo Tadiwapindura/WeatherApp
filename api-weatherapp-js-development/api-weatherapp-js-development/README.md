@@ -59,7 +59,7 @@ Open `index.html` file in your browser.
 ### Authors
 
 👤 **Tadiwa Pindura**
-- Github: [)
+- Github: [https://github.com/Tadiwapindura)
 - linkedIn: [https://www.linkedin.com/in/tadiwanashepindura-webdev)
 
 ## 🤝 Contributing
